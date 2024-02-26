@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2048px" height="2048px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2048 2048"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil1 {fill:#0288D1}
+    .fil3 {fill:#039BE5}
+    .fil4 {fill:#29B6F6}
+    .fil2 {fill:#EFEBE9}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="2048" height="2048"/>
+  <rect class="fil0" x="255.999" y="255.999" width="1536" height="1536"/>
+  <rect class="fil0" x="255.999" y="256" width="1536" height="1536"/>
+  <rect class="fil0" x="255.999" y="256" width="1536" height="1536"/>
+  <path class="fil1" d="M1740.13 319.999l-588.735 0 -293.543 159.382 -549.991 -4.24607c-18.9059,-0.146457 -34.3736,13.4504 -34.3736,29.8819l0 773.261c0,16.4327 15.4713,29.8831 34.3736,29.8831l1432.27 0c18.9047,0 34.3736,-13.4469 34.3736,-29.8831l0 -928.397c0,-16.4362 -15.4677,-29.8819 -34.3736,-29.8819z"/>
+  <path class="fil2" d="M562.197 491.637l923.606 0c18.9059,0 34.3736,15.4701 34.3736,34.3736l0 963.65c0,18.9036 -15.4701,34.3725 -34.3736,34.3725l-923.606 0c-18.9036,0 -34.3736,-15.4665 -34.3736,-34.3725l0 -963.65c0,-18.9059 15.4677,-34.3736 34.3736,-34.3736z"/>
+  <path class="fil3" d="M307.865 611.507l614.297 1.44213 299.76 291.605 518.213 -4.60276c18.9059,-0.167717 34.3736,15.476 34.3736,34.3736l0 694.287c0,18.9024 -15.4713,34.3736 -34.3736,34.3736l-1432.27 0c-18.9036,0 -34.3736,-15.4677 -34.3736,-34.3736l0 -982.732c0,-18.9059 15.4677,-34.4162 34.3736,-34.3725z"/>
+  <path class="fil4" d="M307.865 648.172l588.735 0 293.543 293.329 549.991 -4.88386c18.9059,-0.167717 34.3736,15.4736 34.3736,34.3725l0 530.638c0,18.9012 -15.4725,34.3736 -34.3736,34.3736l-1432.27 0c-18.9024,0 -34.3736,-15.4677 -34.3736,-34.3736l0 -819.082c0,-18.9059 15.4677,-34.3736 34.3736,-34.3736z"/>
+ </g>
+</svg>
